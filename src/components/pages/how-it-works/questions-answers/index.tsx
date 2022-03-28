@@ -1,6 +1,6 @@
 import { Accourdion } from "components/elements";
 import { MainContainer } from "components/layout";
-import { questions } from "pages/how-it-works/questions";
+import { questions } from "components/pages/how-it-works/questions";
 import React from "react";
 import styled from "styled-components";
 

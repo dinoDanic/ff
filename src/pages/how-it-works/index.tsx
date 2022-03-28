@@ -11,7 +11,10 @@ import { NextPage } from "next";
 import { Controller } from "react-scrollmagic";
 import React from "react";
 import styled from "styled-components";
-import { howWeCanHelp, labOffers } from "./offers";
+import {
+  howWeCanHelp,
+  labOffers,
+} from "../../components/pages/how-it-works/offers";
 import Head from "next/head";
 
 const HowItWorks: NextPage = () => {
