@@ -1,0 +1,17 @@
+.swiper-horizontal > .swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+  width: fit-content;
+}
+
+/* .scroll {
+  scroll-snap-type: y mandatory;
+}
+html.scroll-snap {
+  scroll-snap-type: y proximity;
+}
+
+html.scroll-snap body {
+  scroll-snap-type: y proximity;
+} */

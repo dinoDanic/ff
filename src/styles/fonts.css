@@ -1,0 +1,15 @@
+@font-face {
+  font-family: NimbusSanExtBol;
+  font-display: block;
+  src: url(../assets/fonts/NimbusSanExtBol.otf);
+}
+@font-face {
+  font-family: NimbusSanExtReg;
+  font-display: block;
+  src: url(../assets/fonts/NimbusSanExtReg.otf);
+}
+@font-face {
+  font-family: GraphikRegular;
+  font-display: block;
+  src: url(../assets/fonts/GraphikRegular.otf);
+}

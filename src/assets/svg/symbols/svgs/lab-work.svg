@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g id="LogInIconPurple" transform="translate(0.06)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="14.47" cy="14.47" r="14.47" transform="translate(85.54 128.1)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="14.47" cy="14.47" r="14.47" transform="translate(85.54 92.97)"/>
+    <path id="Path_342" data-name="Path 342" d="M134.47,31.7a14.48,14.48,0,0,0,28.95,0"/>
+    <path id="Path_343" data-name="Path 343" d="M169.13,148.8c0,11-9.44,19.93-20.95,19.56a20.21,20.21,0,0,1-19.56-20.07V31.67h40.41Z" fill="none" stroke="#000" stroke-width="1.5"/>
+    <path id="Path_344" data-name="Path 344" d="M120.2,148.8c0,11-9.45,19.93-21,19.56a20.21,20.21,0,0,1-19.57-20.07V31.67h40.42Z" fill="none" stroke="#000" stroke-width="1.5"/>
+    <path id="Path_345" data-name="Path 345" d="M71.27,148.8c0,11-9.45,19.93-20.95,19.56a20.21,20.21,0,0,1-19.57-20.07V31.67H71.22Z" fill="none" stroke="#000" stroke-width="1.5"/>
+    <rect id="Rectangle_202" data-name="Rectangle 202" width="200" height="200" transform="translate(-0.06)" fill="none"/>
+  </g>
+</svg>

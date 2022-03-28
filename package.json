@@ -1,0 +1,31 @@
+{
+  "name": "forfend-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.24",
+    "framer-motion": "^6.2.8",
+    "next": "12.1.0",
+    "next-seo": "^5.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-intersection-observer": "^8.33.1",
+    "react-scrollmagic": "^2.3.0",
+    "styled-components": "^5.3.3",
+    "swiper": "^8.0.7",
+    "yarn": "^1.22.18"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.21",
+    "@types/react": "17.0.40",
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "typescript": "4.6.2"
+  }
+}
